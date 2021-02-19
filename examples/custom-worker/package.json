@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "babel-loader": "^8.2.2",
+     "webpack": "latest",
     "next": "^10.0.6",
     "next-pwa": "latest",
     "react": "^17.0.1",
